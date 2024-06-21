@@ -1,4 +1,4 @@
-// simple printing done here
+// simple printing done here without recursion
 function example() {
 	console.log('line one');
 	console.log('line two');
